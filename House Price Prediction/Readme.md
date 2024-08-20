@@ -1,5 +1,7 @@
-#HOUSE-PRICE-PREDICTION
+## HOUSE-PRICE-PREDICTION
+
 the dataset is useful for practising how to fit a linear model.
+
 Fit a linear regression model on this data, contrasting the training and test metrics of the models.
 
 https://zinduaschool.slack.com/files/U04G6C7QWU9/F07F872EVJ7/real_estate_data.xlsx
