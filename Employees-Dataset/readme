@@ -1,1 +1,12 @@
+# EMPLOYEES-CHURN-DATASET
 
+This dataset will be used to predict the churn rate of employees using different Machine learning models.
+
+The dataset will be used to perform the following functions:
+
+1. Train and evaluate different models.
+2. Use ROC/AUC  and P_R curves to predict probabilities.
+3. Practise using ensemble methods
+4. Perform Hyper- parameter tunning
+
+https://zinduaschool.slack.com/files/U04G6C7QWU9/F07GAUUJF1S/prepared_df.csv
